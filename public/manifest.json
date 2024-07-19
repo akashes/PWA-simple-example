@@ -1,0 +1,23 @@
+{
+    "name":"My first pwa ",
+    "short_name":"My app",
+    "start_url":".",
+    "background_color":"green",
+    "theme_color":"#009578",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"images/64.webp",
+            "sizes":"1024x1024",
+            "type":"image/webp"
+
+        },
+        {
+            "src":"images/512.jpg",
+            "sizes":"236x419",
+            "type":"image/jpg"
+
+
+        }
+    ]
+}
